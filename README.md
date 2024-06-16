@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 ## <a name="links">🔗 Links</a>
 
 [Demo](https://play.tailwindcss.com/) <br />

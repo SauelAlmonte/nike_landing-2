@@ -1,12 +1,10 @@
 <div align="center">
 ## <a name="links">🔗 Links</a>
 
-- [Tailwind Play](https://play.tailwindcss.com/)
-  <br />
-    <!-- <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
+[Tailwind Play](https://play.tailwindcss.com/) <br />
+<!-- <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
-    </a> -->
-  <br />
+    </a> --> <br />
 
   <!-- <div>
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />

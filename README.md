@@ -1,19 +1,19 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
+    <!-- <a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank">
       <img src="https://github.com/adrianhajdin/nike_landing_page/assets/151519281/36013f49-ba13-47ad-a6c4-f9d58bfae7fc" alt="Project Banner">
-    </a>
+    </a> -->
   <br />
 
-  <div>
+  <!-- <div>
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
+  </div> -->
 
-  <h3 align="center">TailwindCSS Crash Course</h3>
+  <!-- <h3 align="center">TailwindCSS Crash Course</h3>
 
    <div align="center">
      Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+    </div> -->
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>

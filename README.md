@@ -26,13 +26,14 @@
 
 ## <a name="introduction">🤖 Introduction</a>
 
-Master Tailwind CSS in two parts by first learning fundamentals, advanced
-techniques, and theming. Then, build a stunning Nike landing page, applying
-learned skills to create a visually impressive website.
+Welcome to a re-creation of a Nike-inspired crafted landing page, where design
+meets functionality seamlessly. Built with React.js and styled with TailwindCSS,
+this site showcases modern web development practices and aesthetic finesse.
+Explore a variety of features designed to elevate user experience:
 
-If you're getting started and need assistance or face any bugs, join our active
-Discord community with over 27k+ members. It's a place where people help each
-other out.
+The code architecture emphasizes scalability and reusability, ensuring a robust
+foundation for future enhancements. Explore the intersection of innovation and
+design excellence with me.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 

@@ -39,8 +39,8 @@ design excellence with me.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Tailwind CSS
 - React.js
+- Tailwind CSS
 
 ## <a name="features">🔋 Features</a>
 
